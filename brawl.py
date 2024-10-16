@@ -53,3 +53,4 @@ while player_one_life > 0 and player_two_life > 0:
         elif player_two_life == 0:
                 print(f"{player_one_name} van med {player_one_life} liv kvar")
                 print(f"och det tog {round} runder för {player_one_name} att vina")
+# klass system.
